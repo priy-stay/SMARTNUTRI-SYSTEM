@@ -1,0 +1,4 @@
+fdc_id,description,amount,disease,age_group,rule_food,food_category,recommendation,priority,reason,user_age,gender,weight_kg,height_cm,food_preference,priority_score,recommendation_score,AI_score,BMI,BMI_category,food_name
+2257046,"Oat milk, unsweetened, plain, refrigerated",12.624453033333333,Diabetes,16-25,Oats,Whole Grains,Recommended,High,Provides fiber and quality carbohydrate,20,female,67.0,167.0,vegetarian,3,3.0,252.62445303333334,24.02,Normal,"Oat milk, unsweetened, plain, refrigerated"
+,Sugary soft drinks,,diabetes,16-25,,Beverages,Avoid,High,High added sugar can raise blood glucose,20,female,67.0,167.0,vegetarian,3,,150.0,24.02,Normal,Sugary soft drinks
+,Sugary sweets,,diabetes,16-25,,Sweets,Avoid,High,High added sugar and refined carbohydrate,20,female,67.0,167.0,vegetarian,3,,150.0,24.02,Normal,Sugary sweets

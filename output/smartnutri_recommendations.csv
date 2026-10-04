@@ -1,0 +1,98 @@
+disease,age_group,food_category,food_name,recommendation,priority,reason
+Anemia,16-25,Legumes,Lentils,Recommended,High,Good source of iron and protein
+Anemia,16-25,Vegetables,Spinach,Recommended,High,Provides iron and folate
+Anemia,16-25,Seeds,Pumpkin seeds,Moderate,Medium,Provides iron and minerals
+Anemia,16-25,Processed Foods,Highly processed snacks,Avoid,High,Low nutrient density and may displace nutritious foods
+Anemia,16-25,Beverages,Excess tea with meals,Avoid,High,Tea can reduce absorption of non-heme iron when consumed with meals
+Anemia,26-40,Legumes,Chickpeas,Recommended,High,Provides iron and protein
+Anemia,26-40,Vegetables,Spinach,Recommended,High,Provides iron and folate
+Anemia,26-40,Seeds,Sesame seeds,Moderate,Medium,Provides iron and minerals
+Anemia,26-40,Beverages,Excess tea with meals,Avoid,High,May reduce non-heme iron absorption
+Anemia,41-50,Legumes,Beans,Recommended,High,Provides iron and protein
+Anemia,41-50,Vegetables,Amaranth leaves,Recommended,High,Provides iron and folate
+Anemia,41-50,Seeds,Pumpkin seeds,Moderate,Medium,Provides iron and minerals
+Anemia,41-50,Beverages,Excess tea with meals,Avoid,High,May reduce non-heme iron absorption
+Anemia,51+,Legumes,Lentils,Recommended,High,Provides iron and protein
+Anemia,51+,Vegetables,Spinach,Recommended,High,Provides iron and folate
+Anemia,51+,Animal Foods,Eggs,Moderate,Medium,Provides vitamin B12 and protein
+Anemia,51+,Beverages,Excess tea with meals,Avoid,High,May reduce non-heme iron absorption
+Diabetes,16-25,Whole Grains,Oats,Recommended,High,Provides fiber and quality carbohydrate
+Diabetes,16-25,Legumes,Green gram,Recommended,High,Provides fiber and plant protein
+Diabetes,16-25,Vegetables,Broccoli,Recommended,High,Non-starchy nutrient-dense vegetable
+Diabetes,16-25,Beverages,Sugary soft drinks,Avoid,High,High added sugar can raise blood glucose
+Diabetes,16-25,Sweets,Sugary sweets,Avoid,High,High added sugar and refined carbohydrate
+Diabetes,26-40,Whole Grains,Barley,Recommended,High,High-fiber whole grain option
+Diabetes,26-40,Legumes,Lentils,Recommended,High,Provides fiber and protein
+Diabetes,26-40,Vegetables,Bitter gourd,Recommended,Medium,Low-calorie vegetable option
+Diabetes,26-40,Beverages,Sugary soft drinks,Avoid,High,High added sugar can raise blood glucose
+Diabetes,26-40,Bakery Foods,Cakes,Avoid,High,Often high in added sugar and refined carbohydrate
+Diabetes,41-50,Whole Grains,Oats,Recommended,High,Provides dietary fiber
+Diabetes,41-50,Legumes,Chickpeas,Recommended,High,Provides fiber and protein
+Diabetes,41-50,Vegetables,Spinach,Recommended,High,Non-starchy nutrient-dense vegetable
+Diabetes,41-50,Beverages,Sugary soft drinks,Avoid,High,High added sugar can raise blood glucose
+Diabetes,41-50,Sweets,Sweets,Avoid,High,High added sugar
+Diabetes,51+,Whole Grains,Barley,Recommended,High,Provides dietary fiber
+Diabetes,51+,Legumes,Green gram,Recommended,High,Provides fiber and protein
+Diabetes,51+,Vegetables,Broccoli,Recommended,High,Non-starchy nutrient-dense vegetable
+Diabetes,51+,Beverages,Sugary soft drinks,Avoid,High,High added sugar can raise blood glucose
+Diabetes,51+,Bakery Foods,Cakes,Avoid,High,Often high in added sugar and refined carbohydrate
+High Cholesterol,16-25,Whole Grains,Oats,Recommended,High,Provides soluble fiber
+High Cholesterol,16-25,Legumes,Beans,Recommended,High,Provides dietary fiber
+High Cholesterol,16-25,Nuts,Almonds,Moderate,Medium,Provides unsaturated fats and nutrients
+High Cholesterol,16-25,Processed Foods,Processed meats,Avoid,High,Often high in saturated fat and sodium
+High Cholesterol,16-25,Fried Foods,Deep fried foods,Avoid,High,Can be high in unhealthy fats
+High Cholesterol,26-40,Whole Grains,Barley,Recommended,High,Provides dietary fiber
+High Cholesterol,26-40,Legumes,Lentils,Recommended,High,Provides soluble and dietary fiber
+High Cholesterol,26-40,Nuts,Walnuts,Recommended,Medium,Provides unsaturated fats
+High Cholesterol,26-40,Processed Foods,Processed meats,Avoid,High,Often high in saturated fat
+High Cholesterol,26-40,Fried Foods,Deep fried foods,Avoid,High,Can be high in unhealthy fats
+High Cholesterol,41-50,Whole Grains,Oats,Recommended,High,Provides soluble fiber
+High Cholesterol,41-50,Legumes,Chickpeas,Recommended,High,Provides dietary fiber
+High Cholesterol,41-50,Nuts,Almonds,Moderate,Medium,Provides unsaturated fats
+High Cholesterol,41-50,Processed Foods,Processed meats,Avoid,High,Often high in saturated fat
+High Cholesterol,41-50,Fried Foods,Deep fried foods,Avoid,High,Can be high in unhealthy fats
+High Cholesterol,51+,Whole Grains,Barley,Recommended,High,Provides dietary fiber
+High Cholesterol,51+,Legumes,Beans,Recommended,High,Provides dietary fiber
+High Cholesterol,51+,Nuts,Walnuts,Moderate,Medium,Provides unsaturated fats
+High Cholesterol,51+,Processed Foods,Processed meats,Avoid,High,Often high in saturated fat
+High Cholesterol,51+,Fried Foods,Deep fried foods,Avoid,High,Can be high in unhealthy fats
+Hypertension,16-25,Vegetables,Spinach,Recommended,High,Nutrient-dense vegetable
+Hypertension,16-25,Legumes,Beans,Recommended,High,Provides plant protein and fiber
+Hypertension,16-25,Fruits,Banana,Moderate,Medium,Provides potassium
+Hypertension,16-25,Processed Foods,Processed meats,Avoid,High,Often high in sodium
+Hypertension,16-25,Snacks,Salty packaged snacks,Avoid,High,Often high in sodium
+Hypertension,26-40,Vegetables,Broccoli,Recommended,High,Nutrient-dense vegetable
+Hypertension,26-40,Legumes,Lentils,Recommended,High,Provides plant protein and fiber
+Hypertension,26-40,Fruits,Guava,Recommended,Medium,Fruit and fiber option
+Hypertension,26-40,Processed Foods,Processed meats,Avoid,High,Often high in sodium
+Hypertension,26-40,Snacks,Salty packaged snacks,Avoid,High,Often high in sodium
+Hypertension,41-50,Vegetables,Spinach,Recommended,High,Nutrient-dense vegetable
+Hypertension,41-50,Legumes,Chickpeas,Recommended,High,Provides plant protein and fiber
+Hypertension,41-50,Fruits,Orange,Moderate,Medium,Fruit containing nutrients
+Hypertension,41-50,Processed Foods,Processed meats,Avoid,High,Often high in sodium
+Hypertension,41-50,Snacks,Salty packaged snacks,Avoid,High,Often high in sodium
+Hypertension,51+,Vegetables,Broccoli,Recommended,High,Nutrient-dense vegetable
+Hypertension,51+,Legumes,Beans,Recommended,High,Provides plant protein and fiber
+Hypertension,51+,Fruits,Guava,Moderate,Medium,Fruit and fiber option
+Hypertension,51+,Processed Foods,Processed meats,Avoid,High,Often high in sodium
+Hypertension,51+,Snacks,Salty packaged snacks,Avoid,High,Often high in sodium
+Obesity,16-25,Vegetables,Broccoli,Recommended,High,Nutrient-dense lower-calorie food
+Obesity,16-25,Whole Grains,Oats,Recommended,High,Fiber-containing whole grain
+Obesity,16-25,Legumes,Green gram,Recommended,High,Provides protein and fiber
+Obesity,16-25,Fried Foods,Deep fried foods,Avoid,High,Energy-dense food
+Obesity,16-25,Beverages,Sugary soft drinks,Avoid,High,High added sugar and calories
+Obesity,26-40,Vegetables,Cucumber,Recommended,High,Low-calorie vegetable option
+Obesity,26-40,Whole Grains,Barley,Recommended,High,Fiber-containing whole grain
+Obesity,26-40,Legumes,Lentils,Recommended,High,Provides protein and fiber
+Obesity,26-40,Fried Foods,Deep fried foods,Avoid,High,Energy-dense food
+Obesity,26-40,Beverages,Sugary soft drinks,Avoid,High,High added sugar and calories
+Obesity,41-50,Vegetables,Cabbage,Recommended,High,Nutrient-dense vegetable
+Obesity,41-50,Whole Grains,Oats,Recommended,High,Fiber-containing whole grain
+Obesity,41-50,Legumes,Chickpeas,Recommended,High,Provides protein and fiber
+Obesity,41-50,Fried Foods,Deep fried foods,Avoid,High,Energy-dense food
+Obesity,41-50,Bakery Foods,Cakes,Avoid,High,Often high in calories and added sugar
+Obesity,51+,Vegetables,Broccoli,Recommended,High,Nutrient-dense lower-calorie food
+Obesity,51+,Whole Grains,Barley,Recommended,High,Fiber-containing whole grain
+Obesity,51+,Legumes,Green gram,Recommended,High,Provides protein and fiber
+Obesity,51+,Fried Foods,Deep fried foods,Avoid,High,Energy-dense food
+Obesity,51+,Beverages,Sugary soft drinks,Avoid,High,High added sugar and calories
